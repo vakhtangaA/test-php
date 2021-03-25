@@ -19,6 +19,7 @@ function addNumbers($num1, $num2)
 addNumbers(22, 222);
 
 ?>
+</div>
 </body>
 
 </html>

@@ -7,6 +7,7 @@ $phrase2 = 'hello and goodbye';
 echo ucfirst($phrase1) . " | " . ucfirst($phrase2);
 
 ?>
+</div>
 </body>
 
 </html>

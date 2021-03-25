@@ -13,6 +13,7 @@ echo "Length of array - $length";
 
 
 ?>
+</div>
 </body>
 
 </html>

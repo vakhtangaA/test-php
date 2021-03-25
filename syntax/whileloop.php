@@ -16,6 +16,7 @@ do {
 } while ($grade < 10);
 
 ?>
+</div>
 </body>
 
 </html>

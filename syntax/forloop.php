@@ -9,6 +9,7 @@ for ($count = 0; $count < 10; $count++) {
 
 ?>
 
+</div>
 </body>
 
 </html>

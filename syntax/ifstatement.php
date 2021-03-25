@@ -22,6 +22,7 @@ if ($grade == 'A') {
 }
 
 ?>
+</div>
 </body>
 
 </html>

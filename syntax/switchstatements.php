@@ -9,6 +9,7 @@ switch ($grade) {
 }
 ?>
 
+</div>
 </body>
 
 </html>
